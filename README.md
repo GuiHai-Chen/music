@@ -17,7 +17,7 @@ ES6：采用ES6语法。
 
 ### 部署
 ```
-git clone git@github.com:sqaiyan/netmusic-node.git
+git clone https://github.com/GuiHai-Chen/music.git
 
 cd music
 
